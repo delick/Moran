@@ -10,7 +10,7 @@ Calculate Moran stats in each subblock of an image.
 
 # Usage
 ## How to run
-run `Workflow.m` in Matlab @copy.
+run `Workflow.m` in Matlab &copy.
 ## Input params
 - mask: `GeoTiff` | Mask image where 0 is masked and 1 is used for calculation. Default: `FinelRice0915.tif`
 - raw images: `GeoTiff` | Input at least 2 images. Single images may throw an error. Default: `NDRE.tif`
@@ -19,6 +19,6 @@ run `Workflow.m` in Matlab @copy.
 Stats of Moran's I. From left to right, they are:
 
 
-|	<td colspan=5>1st image </td> 	2nd image		|
+|	<td colspan=5>1st image </td> 	2nd image
 |	-- | -- | -- | -- | -- | -- |
 | # of division | mean | std | max | min	|		…………………………		|
