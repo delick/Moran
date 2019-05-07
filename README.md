@@ -19,6 +19,6 @@ run `Workflow.m` in Matlab @copy.
 Stats of Moran's I. From left to right, they are:
 
 
-|	<td colspan=5>	1st image	|		2nd image		|
+|	<td colspan=5>1st image </td> 	2nd image		|
 |	-- | -- | -- | -- | -- | -- |
 | # of division | mean | std | max | min	|		…………………………		|
