@@ -20,4 +20,5 @@ Stats of Moran's I. From left to right, they are:
 
 
 |		1st image	| | | |	|		2nd image		|
+|	-- | -- | -- | -- | -- | -- |
 | # of division | mean | std | max | min	|		…………………………		|
